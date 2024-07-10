@@ -1,0 +1,7 @@
+db
+scratch
+bin
+thirdparty
+
+*.o
+.vscode
