@@ -2,7 +2,7 @@
 
 CC="gcc"
 CFLAGS="-Wall -Wextra -Werror -O3 -g"
-INCLUDES="-Ithirdparty/libduckdb"
+INCLUDES="-Ithirdparty/libduckdb -Iinclude"
 
 main() {
   # Check if we are in the root directory of the project
